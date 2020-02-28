@@ -8,9 +8,9 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
-using OverActiveExercise.Data;
+using Temsharp.Data;
 
-namespace OverActiveExercise
+namespace Temsharp
 {
     public class Program
     {
