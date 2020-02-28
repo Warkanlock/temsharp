@@ -10,10 +10,10 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using OverActiveExercise.Data;
-using OverActiveExercise.Interfaces;
+using Temsharp.Data;
+using Temsharp.Interfaces;
 
-namespace OverActiveExercise
+namespace Temsharp
 {
     public class Startup
     {
